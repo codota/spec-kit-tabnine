@@ -158,10 +158,10 @@ Want to see Spec Kit in action? Watch our [video overview](https://www.youtube.c
 | [Jules](https://jules.google.com/)                                                   | ✅      |                                                                                                                                           |
 | [Kilo Code](https://github.com/Kilo-Org/kilocode)                                    | ✅      |                                                                                                                                           |
 | [opencode](https://opencode.ai/)                                                     | ✅      |                                                                                                                                           |
+| [Tabnine CLI](https://github.com/codota/tabnine-cli)                                 | ✅      |                                                                                                                                           |
 | [Qwen Code](https://github.com/QwenLM/qwen-code)                                     | ✅      |                                                                                                                                           |
 | [Roo Code](https://roocode.com/)                                                     | ✅      |                                                                                                                                           |
 | [SHAI (OVHcloud)](https://github.com/ovh/shai)                                       | ✅      |                                                                                                                                           |
-| [Tabnine CLI](https://github.com/codota/tabnine-cli)                                 | ✅      |                                                                                                                                           |
 | [Windsurf](https://windsurf.com/)                                                    | ✅      |                                                                                                                                           |
 
 ## 🔧 Specify CLI Reference

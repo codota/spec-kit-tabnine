@@ -47,7 +47,7 @@ Specify supports multiple AI agents by generating agent-specific command files a
 | **Amazon Q Developer CLI** | `.amazonq/prompts/`    | Markdown | `q`             | Amazon Q Developer CLI      |
 | **Amp**                    | `.agents/commands/`    | Markdown | `amp`           | Amp CLI                     |
 | **SHAI**                   | `.shai/commands/`      | Markdown | `shai`          | SHAI CLI                    |
-| **Tabnine CLI**            | `.tabnine/commands/`   | TOML     | `tabnine`       | Tabnine CLI                 |
+| **Tabnine CLI**            | `.tabnine/commands/`   | TOML     | `tabnine-cli`   | Tabnine CLI                 |
 | **IBM Bob**                | `.bob/commands/`       | Markdown | N/A (IDE-based) | IBM Bob IDE                 |
 
 ### Step-by-Step Integration Guide
